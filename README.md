@@ -4,10 +4,9 @@
   <h1 align="center">Learning Go</h1>
   <p align="center">Basic Go syntaxe and concepts</p>
   <p align="center">
-    <img src="https://img.shields.io/badge/PWA-installable-success" alt="PWA installable" />
-    <img src="https://img.shields.io/badge/type-project-orange" alt="Repo Type" />
-    <img src="https://img.shields.io/badge/language-typescript-blue" alt="Repo Main Language" />
-    <img src="https://img.shields.io/badge/platform-web-yellow" alt="Project Platform" />
+    <img src="https://img.shields.io/badge/type-tutorial-orange" alt="Repo Type" />
+    <img src="https://img.shields.io/badge/language-golang-cyan" alt="Repo Main Language" />
+    <img src="https://img.shields.io/badge/support-google-red" alt="Project Platform" />
   </p>
   <p align="center">
     <a href="https://twitter.com/lakscastro" target="_blank">
