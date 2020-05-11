@@ -23,64 +23,16 @@
   <a href="https://github.com/LaksCastro/minimal-ts-calculator/blob/master/README-ptbr.md">Ler em português</a>
 </p>
 
-## But what is this?
-It's a very simple [web application](https://lakscastro.github.io/minimal-ts-calculator), created for to be a simple calculator, work as PWA, then is possible to install and use as Desktop or Mobile app normally
+## Table of content
+- Syntax
+  - [Variables](#variables)
+  - [If Else](#if-else)
+  - [Switch](#switch)
+  - [Loop For](#loop-for)
+  - [Loop While](#loop-for)
+  - [Functions](#functions)
 
-## Features
-- Demonstration Mode
-  - Description: Show the calculator with a mobile status bar and in small size
-  - Why: To work with multiple stylesheets in the same page
-- Functional Mode:
-  - Description: Show the calculator in FullScreen, without unnecessary UI, like the StatusBar
-  - Why: To work with UI and UX for improve the calculator usability
-- Light/Dark Mode:
-  - Description: Allow to switch a dark or light theme
-  - Why: Nowadays, most user-focused applications must have at least these two themes
 
-## How to clone
-### Requeriments
-- Node installed
-- Npm or Yarn installed
-
-### Installing
-1. Clone the repository
-```
-git clone https://github.com/LaksCastro/minimal-ts-calculator.git
-```
-
-2. Navigate to the project folder
-```
-cd minimal-ts-calculator
-```
-
-4. Install dependencies
-```
-yarn install
-or
-npm install
-```
-
-5. Run development server
-```
-yarn dev
-```
-
-6. To create build, static files in dist folder (pre-deploy)
-```
-yarn pre-deploy
-```
-
-7. To push to gh-pages
-```
-yarn deploy
-```
-
-> *_Note: If you want create a github workflow to deploy automatically on push in master branch, [see this repository](https://github.com/peaceiris/actions-hugo)_*
-
-## Built with
-- Parcel - Module Bundler
-- Typescript - Language
-- Github Actions - Allow to create a automatic workflow
 
 ## License
 This project is licensed under the MIT license - see the LICENSE archive for more details.
