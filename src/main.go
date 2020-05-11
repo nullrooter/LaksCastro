@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// Primeiro código em Go
+// First code in Go
 func main() {
 	fmt.Println("Hello Go oogle")
 	fmt.Println("I am writing in Go Language")
