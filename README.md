@@ -19,7 +19,7 @@
 </p>
 
 <p>
-  <img src="./src/assets/pt-br.png" alt="Portuguese" height="16" />
+  <img src="./docs/pt-br.png" alt="Portuguese" height="16" />
   <a href="https://github.com/LaksCastro/minimal-ts-calculator/blob/master/README-ptbr.md">Ler em português</a>
 </p>
 
