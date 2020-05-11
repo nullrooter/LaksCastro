@@ -18,9 +18,6 @@
     </a>
   </p>
 </p>
-<p align="center">
-  <img src="/src/assets/calculator-gif.gif" alt="Demo Image" height="200" />
-</p>
 
 <p>
   <img src="./src/assets/pt-br.png" alt="Portuguese" height="16" />
