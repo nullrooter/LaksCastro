@@ -8,6 +8,7 @@ import (
 func main() {
 	exercise1()
 	exercise2()
+	exercise3()
 }
 
 // Read two numbers and print the sum
@@ -39,4 +40,19 @@ func exercise2() {
 	} else {
 		fmt.Println("Equal to 100")
 	}
+}
+
+// Read a float 64 that represents a radius of a circle and calculate your area
+// Consider PI = 3.14159
+func exercise3() {
+	const pi = 3.14159
+
+	var r float64
+
+	fmt.Println("Type a circle radius")
+	fmt.Scan(&r)
+
+	a := pi * (r * r)
+
+	fmt.Printf("Area = %.4f\n", a)
 }
