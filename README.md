@@ -2,7 +2,7 @@
   <img src="./docs/golang-logo.png" width="150" alt="Project Logo">
   <p align="center">⭐⭐⭐⭐⭐</p> 
   <h1 align="center">Learning Go</h1>
-  <p align="center">Learning Typescript and Github Actions with this project :D</p>
+  <p align="center">Basic Go syntaxe and concepts</p>
   <p align="center">
     <img src="https://img.shields.io/badge/PWA-installable-success" alt="PWA installable" />
     <img src="https://img.shields.io/badge/type-project-orange" alt="Repo Type" />
