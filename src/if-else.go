@@ -1,18 +1,13 @@
 package main
 
-import (
-	"fmt"
-	"strconv"
-)
+import "fmt"
 
 func main() {
-	var n1 int
-	var n2 int
+	someoneString := "28 July 2010"
 
-	fmt.Scanln(&n1)
-	fmt.Scanln(&n2)
-
-	var sum = n1 + n2
-
-	fmt.Println("X = " + strconv.Itoa(sum))
+	if someoneString == "28 July 2010" {
+		fmt.Println("This precedes unfortunate events...")
+	} else {
+		fmt.Println("All is okay, continue...")
+	}
 }
