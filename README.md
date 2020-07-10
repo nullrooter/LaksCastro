@@ -85,5 +85,5 @@ If you want to work with me, or develop something as a team, you can contact me 
 Pronoun: He, Him
 How old: ???
 Favorite endless game: PinOut & Smash Hit
-I admire: Web|Native Animations
+I admire: Web|Native Animations and C++ Programming
 ```
