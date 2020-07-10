@@ -17,7 +17,7 @@ Hello! Welcome to this profile. My way of development is very simple: I like to 
 
 ### ✨ Contact
 If you want to work with me, or develop something as a team, you can contact me through one of these social networks:
-1. [Discord]()
+1. Discord, `Laks#6906`
 2. [Whatsapp](https://api.whatsapp.com/send?phone=5569984320427)
 3. [Workana](https://www.workana.com/freelancer/80b3d81eb99245381c7320dedc76f0b8?ref=user_dropdown)
 4. [99Freelas](https://www.99freelas.com.br/user/Laks-Castro)
@@ -46,6 +46,7 @@ If you want to work with me, or develop something as a team, you can contact me 
 - Realtime
 - Rest API
 - MongoDB
+- Mongoose ORM
 - Sequelize ORM (PostgreSQL)
 
 #### 🧪 Mobile
