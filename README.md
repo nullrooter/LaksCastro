@@ -24,35 +24,6 @@ If you want to work with me, or develop something as a team, you can contact me 
 4. [99Freelas](https://www.99freelas.com.br/user/Laks-Castro)
 3. [Linkedin](https://www.linkedin.com/in/lakscastro)
 
-### 🎈 Technologies
-#### 🧿 Front-end
-- ReactJS
-- Redux
-- Context API
-- React Router DOM
-- VueJS
-- Vuex
-- Vue Router
-- Gatsby
-- Webpack 4+
-- Parcel Bundler
-- Progressive Web Application
-- Firebase (Firestore, Auth, Cloud Funcions, Realtime Database)
-- Web Components (Shadow DOM & Template)
-
-#### 🛠 Back-end
-- Express
-- Adonis
-- Socket.io
-- Realtime
-- Rest API
-- MongoDB
-- Mongoose ORM
-- Sequelize ORM (PostgreSQL)
-
-#### 🧪 Mobile
-- Flutter
-
 ### 💻 Programming
 ```
 - I know or have a good base
