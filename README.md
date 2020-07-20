@@ -1,11 +1,9 @@
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=LaksCastro&show_icons=true)
+
 ## 📌 Laks Castro  
 > 💡 Web Developer  
 > ⭐ Beginner Mobile Developer  
 > 🕹 Future Game Developer  
-
-<br>
-
-![Profile Stats](https://github-readme-stats.vercel.app/api?username=LaksCastro&show_icons=true)
 
 ### ✨ Contact
 - Discord `Laks#6909`
