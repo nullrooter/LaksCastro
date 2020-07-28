@@ -23,13 +23,13 @@ Hello! Welcome to this profile. My way of development is very simple: I like to 
 
 ### 💻 Programming
 ```
-- I have a solid knowledge
+- I can build cool things with...
 1. Javascript
 2. Typescript
 3. Dart
 ```
 ```
-- I only know Hello World
+- I only know 'Hello World'...
 1. C
 2. C++ (currently studying)
 3. Rust
