@@ -23,7 +23,7 @@ Hello! Welcome to this profile. My way of development is very simple: I like to 
 
 ### 💻 Programming
 ```
-- I know or have a good base
+- I have a solid knowledge
 1. Javascript
 2. Typescript
 3. Dart
