@@ -24,7 +24,7 @@ Hello! Welcome to this profile. My way of development is very simple: I like to 
 ### 💻 Programming
 ![Main Activity Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lakscastro&layout=compact)
 ```
-- I can build cool things with...
+- I can build some cool stuff with...
 1. Javascript
 2. Typescript
 3. Dart
