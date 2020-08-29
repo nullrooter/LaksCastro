@@ -27,11 +27,14 @@ Hello! Welcome to this profile. My way of development is very simple: I like to 
 2. Typescript
 3. Dart
 4. C++
+5. Java
+6. Kotlin
 ```
 ```
 - I only know 'Hello World'...
 1. C
-3. Rust
+2. Rust
+3. Go
 ```
 
 ### 🌐 Languages
