@@ -25,12 +25,12 @@ Hello! Welcome to this profile. My way of development is very simple: I like to 
 - I can build some cool stuff with...
 1. Javascript
 2. Typescript
-3. Dart (currently studying)
+3. Dart
+4. C++
 ```
 ```
 - I only know 'Hello World'...
 1. C
-2. C++
 3. Rust
 ```
 
