@@ -3,11 +3,6 @@
 > ⭐ Beginner Mobile Developer  
 > 🕹 Future Game Developer  
 
-<p align="right">
-  <img float="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=lakscastro&theme=monokai&show_icons=true" />
-</p>
-
-
 ### ✨ Contact
 - Discord `Laks#6909`
 
@@ -50,3 +45,7 @@ Hello! Welcome to this profile. My way of development is very simple: I like to 
 Favorite endless game: PinOut & Smash Hit
 I admire: Web|Native Animations and C++ Programming
 ```
+
+<p align="right">
+  <img float="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=lakscastro&theme=monokai&show_icons=true" />
+</p>
