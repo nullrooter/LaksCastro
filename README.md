@@ -46,6 +46,4 @@ Favorite endless game: PinOut & Smash Hit
 I admire: Web|Native Animations and C++ Programming
 ```
 
-<p align="right">
-  <img float="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=lakscastro&theme=monokai&show_icons=true" />
-</p>
+<img float="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=lakscastro&theme=monokai&show_icons=true" />
