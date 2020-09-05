@@ -3,6 +3,8 @@
 > ⭐ Beginner Mobile Developer  
 > 🕹 Future Game Developer  
 
+<img float="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=lakscastro&theme=light&show_icons=true" />
+
 ### ✨ Contact
 - Discord `Laks#6909`
 
@@ -46,4 +48,4 @@ Favorite endless game: PinOut & Smash Hit
 I admire: Web|Native Animations and C++ Programming
 ```
 
-<img float="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=lakscastro&theme=monokai&show_icons=true" />
+
