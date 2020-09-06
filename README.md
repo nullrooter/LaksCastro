@@ -3,7 +3,7 @@
 > ⭐ Beginner Mobile Developer  
 > 🕹 Future Game Developer  
 
-<img float="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=lakscastro&theme=light&show_icons=true" />
+<img float="right" height="180em" src="https://github-readme-stats.vercel.app/api?hide_border=true&username=lakscastro&theme=light&show_icons=true" />
 
 ### ✨ Contact
 - Discord `Laks#6909`
