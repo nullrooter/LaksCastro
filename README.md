@@ -8,7 +8,7 @@
 ### ✨ Contact
 - Discord `Laks#6909`
 
-### ⚡ Fast answers 
+### ⚡ Useless data
 ```dart
 [ ] Coffe    [ ] Tea    [x] Chocolate
 [x] Rain     [ ] Sun    [ ] Snow
