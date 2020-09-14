@@ -10,11 +10,11 @@
 
 ### ⚡ Useless data
 ```dart
-[ ] Coffe    [ ] Tea    [x] Chocolate
-[x] Rain     [ ] Sun    [ ] Snow
-[ ] Day      [x] Night  [ ] Afternoon
-[ ] Macbook  [x] PC     [ ] Notebook
-[x] S;G      [x] FMA    [x] Fate
+1. [ ] Coffe    [ ] Tea    [x] Chocolate         
+2. [x] Rain     [ ] Sun    [ ] Snow              
+3. [ ] Day      [x] Night  [ ] Afternoon          
+4. [ ] Macbook  [x] PC     [ ] Notebook             
+5. [x] S;G      [x] FMA    [x] Fate              
 ```
 
 ### 💎 About
