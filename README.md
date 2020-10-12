@@ -45,7 +45,7 @@ Hello! Welcome to this profile. My way of development is very simple: I like to 
 ### ℹ️ Others
 ```
 Favorite endless game: PinOut & Smash Hit
-I admire: Web|Native Animations and C++ Programming
+I like: Web|Native Animations and C++ Programming
 ```
 
 
